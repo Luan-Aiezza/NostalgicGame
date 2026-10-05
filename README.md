@@ -37,7 +37,7 @@ Requirements: Xcode and an iPhone or simulator running **iOS 16.5 or later**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Luan-Aiezza/Nostalgic_Game.git
+   git clone https://github.com/Luan-Aiezza/NostalgicGame.git
    ```
 2. Open `Tokyo/Tokyo.xcodeproj` in Xcode.
 3. Select an iPhone simulator or device and press **Run** (⌘R).
